@@ -22,7 +22,7 @@
 
 Projeto desenvolvido com HTML, CSS e JavaScript para praticar programação e conversão de valores entre diferentes moedas.
 
-🔗 [Acessar o repositório Projeto-JS](https://github.com/raferreira11/Projeto-JS)
+🔗 [Acessar o repositório Projeto-JS]([https://github.com/raferreira11/Projeto-JS](https://github.com/raiferreira11/Projeto-JS))
 
 ## 📫 Contato
 
