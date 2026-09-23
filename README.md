@@ -1,4 +1,4 @@
-## Hi there 👋
+🚀 Estudante de programação, construindo projetos e aprendendo todos os dias
 
 🔥 Raí Ferreira | Desenvolvedor em formação 🚀 Focado no aprendizado e crescimento constante 💻 Apaixonado por transformar ideias em código e construir soluções reais 🎯 Em busca da primeira oportunidade para aplicar meus conhecimentos e evoluir na carreira�
 <br>
