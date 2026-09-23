@@ -1,12 +1,35 @@
-🚀 Estudante de programação, construindo projetos e aprendendo todos os dias
+# Olá! Eu sou o Raí 👋
 
-🔥 Raí Ferreira | Desenvolvedor em formação 🚀 Focado no aprendizado e crescimento constante 💻 Apaixonado por transformar ideias em código e construir soluções reais 🎯 Em busca da primeira oportunidade para aplicar meus conhecimentos e evoluir na carreira�
-<br>
-<br>
+**Estudante de programação, construindo projetos e aprendendo todos os dias.**
 
-<a href="https://www.instagram.com/r.ferreiraaa11?igsh=ZW1ja3B2c3Z1amJ3&utm_source=qr" target="_blank">Meu Instagram</a>
+## 👨‍💻 Sobre mim
 
+* 📚 Estou aprendendo programação.
+* 💻 Estou estudando HTML, CSS e JavaScript.
+* 🚀 Quero aprender novas tecnologias.
 
-![Raí stats](https://github-readme-stats.vercel.app/api?username=raiferreira11)
+## 🛠️ Tecnologias
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiferreira11)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+</div>
+
+## 📌 Projeto em destaque
+
+### 💱 Conversor de Moedas
+
+Projeto desenvolvido com HTML, CSS e JavaScript para praticar programação e conversão de valores entre diferentes moedas.
+
+🔗 [Acessar o repositório Projeto-JS](https://github.com/raferreira11/Projeto-JS)
+
+## 📫 Contato
+
+* 🐙 [GitHub](https://github.com/raferreira11)
+* 💼 [LinkedIn](https://www.linkedin.com/in/raíferreira)
+
+---
+
+✨ Sempre aprendendo, sempre evoluindo!
+
